@@ -1,2 +1,1 @@
-# Imputation_AWS_product
-Imputation Model running on Sagemaker_AWS
+Contains the deep learning model source code and model artifacts
